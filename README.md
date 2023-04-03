@@ -70,3 +70,5 @@ or you can combine these with the fortune files already on your system by asking
 [12]: https://simpsons.fandom.com/wiki/List_of_chalkboard_gags
 [13]: https://www.dictionaryofobscuresorrows.com/
 [14]: http://www.cs.yale.edu/homes/perlis-alan/quotes.html
+
+Shout out to JKirchartz
